@@ -1,0 +1,35 @@
+div{
+    border: 1px solid;
+    height: 60px;
+    width: 300px;   
+}
+#d2{
+    /* border: 2px solid; */
+    /* height: 60px; */
+    /* width: 300px; */
+    background-color: orange;
+}
+#d3{
+    /* border: 2px solid; */
+    height: 58px;
+    width: 90px;
+    background: conic-gradient(green,orange,blue,hotpink,crimson,yellow,white,black,aqua,greenyellow,violet);
+    border-radius: 50%;
+    /* justify-items: center; */
+}
+#d4{
+    /* border: 2px solid; */
+    /* height: 60px; */
+    /* width: 300px; */
+    background-color: rgb(6, 128, 0);
+}
+#d5{
+    border: 2px solid;
+    height: 400px;
+    width: 5px;
+    background-color: black;
+}
+
+
+
+
